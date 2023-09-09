@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrunoPer3s/ac45860e28b6825c7f2bae7da88d8f91/raw/7014c05b34c9eeddc71bf8b66a5af89d462ff6f5/githubCardImg.svg"/>
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Per3s</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoper3s&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoper3s" alt="Profile views" /> </p>
 
 - 🔥 Computer Science Student at UFES - Universidade Federal do Espirito Santo
 
