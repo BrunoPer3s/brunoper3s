@@ -4,7 +4,7 @@
 
 - 🔥 Computer Science Student at UFES - Universidade Federal do Espirito Santo
 
-- 💣 Data Structs and Algorithms - Passion
+- 💣 Data Structures and Algorithms - Passion
 
 - 🐱‍👤 Competitive programming - Goal
 
